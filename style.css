@@ -1,0 +1,33 @@
+.menu-search{
+    border-radius:50px;
+}
+
+.bg-color{
+    background-color: #fceae8;
+    border-radius:10px;
+}
+.bg-color-mail{
+    background-color: #FEEAE9;
+    border-radius: 15px;
+}
+.bg-color-mail input[type="text"]{
+    border:none;
+    width:250px;
+    height: 40px;
+}
+
+.bg-color-mail ::placeholder{
+    padding-left:15px;
+    font-size:12px;
+    border-radius:5px;
+}
+.categories img{
+    width:100px;
+}
+.panda-card{
+    border:none;
+}
+.panda-footer{
+    background-color: white;
+    border:none;
+}
